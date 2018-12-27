@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadSheetLight", ".\SpreadSheetLight\SpreadSheetLight.csproj", "{0337C9FC-2F2F-4DAA-A410-30B9300E6B0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DocumentFormat.OpenXml", ".\DocumentFormat.OpenXml\DocumentFormat.OpenXml.csproj", "{BC7A0B7F-B98A-41EB-825E-CE3E95EE94FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0337C9FC-2F2F-4DAA-A410-30B9300E6B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0337C9FC-2F2F-4DAA-A410-30B9300E6B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0337C9FC-2F2F-4DAA-A410-30B9300E6B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0337C9FC-2F2F-4DAA-A410-30B9300E6B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7A0B7F-B98A-41EB-825E-CE3E95EE94FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7A0B7F-B98A-41EB-825E-CE3E95EE94FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7A0B7F-B98A-41EB-825E-CE3E95EE94FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7A0B7F-B98A-41EB-825E-CE3E95EE94FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0F1094C-E9F3-4050-92B6-2EF3CB77990D}
+	EndGlobalSection
+EndGlobal
