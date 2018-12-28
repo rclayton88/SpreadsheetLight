@@ -1,7 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
+	<!-- 
   <Import Project="$([MSBuild]::GetDirectoryNameOfFileAbove($(MSBuildThisFileDirectory), DocumentFormat.OpenXml.Package.props))\DocumentFormat.OpenXml.Package.props" />
+-->
 
+<Import Project="..\DocumentFormat.OpenXml.Package.props" />
   <PropertyGroup>
     <!-- TargetFrameworks can be set to various combinations as described in Directory.Build.props -->
     <!--
